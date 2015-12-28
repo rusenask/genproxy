@@ -1,5 +1,7 @@
 # One Proxy to Integrate Them All
 
+> This project is now moved to https://github.com/SpectoLabs/hoverfly 
+
 -
 
 ## Configuration
